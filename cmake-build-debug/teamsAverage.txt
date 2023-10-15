@@ -1,0 +1,7 @@
+Arkansas Travelers 5 11 0.3125
+Vancouver Canadians 10 3 0.769231
+Columbus Clippers 0 3 0
+Norfolk Tides 6 0 1
+Rocky Mountain Vibes 8 8 0.5
+Accra Hearts of Oak 10 9 0.526316
+Kumasi Asante Kotoko 3 16 0.157895

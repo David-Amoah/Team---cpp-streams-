@@ -1,0 +1,3 @@
+C:/Users/amoah/CLionProjects/Team-wins/lossed/cmake-build-debug/CMakeFiles/lossed.dir
+C:/Users/amoah/CLionProjects/Team-wins/lossed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amoah/CLionProjects/Team-wins/lossed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
